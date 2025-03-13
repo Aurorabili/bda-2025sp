@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# 定义要写入的脚本内容
 cat <<EOF > /data/workspace/myshixun/step1/1.sh
 #!/bin/bash
 echo "master:"
@@ -22,5 +21,4 @@ echo "Jps"
 echo "NodeManager"
 EOF
 
-# 赋予执行权限
 chmod +x /data/workspace/myshixun/step1/1.sh
