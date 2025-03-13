@@ -16,4 +16,34 @@
 > [!CAUTION]
 > **所有脚本操作均不可逆**，执行脚本后使用还原环境按钮仍然无法还原。请谨慎使用。
 
-## 开始
+## 如何使用
+
+在下面找到对应作业并单击复制，然后在提交平台的控制台中粘贴代码，执行后点击评测即可。
+
+## 作业列表
+
+### 第3章 大数据实验环境搭建
+
+#### [MySQL安装](https://www.educoder.net/classrooms/zk3utfaq/shixun_homework/2569570/detail)
+
+```bash
+wget -qO- https://raw.githubusercontent.com/Aurorabili/bda-2025sp/refs/heads/main/spark/scripts/zk3utfaq_2569570.sh | bash
+```
+
+#### [Kafka 完全分布式搭建](https://www.educoder.net/classrooms/zk3utfaq/shixun_homework/2569561/detail)
+
+```bash
+wget -qO- https://raw.githubusercontent.com/Aurorabili/bda-2025sp/refs/heads/main/spark/scripts/zk3utfaq_2569561.sh | bash
+```
+
+#### [Hadoop集群的部署，安装和管理](https://www.educoder.net/classrooms/zk3utfaq/shixun_homework/2569218/detail)
+
+```bash
+wget -qO- https://raw.githubusercontent.com/Aurorabili/bda-2025sp/refs/heads/main/spark/scripts/zk3utfaq_2569218.sh | bash
+```
+
+#### [Hadoop单点部署，安装和管理](https://www.educoder.net/classrooms/zk3utfaq/shixun_homework/2569212/detail)
+
+```bash
+wget -qO- https://raw.githubusercontent.com/Aurorabili/bda-2025sp/refs/heads/main/spark/scripts/zk3utfaq_2569212.sh | bash
+```
