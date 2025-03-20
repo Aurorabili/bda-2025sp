@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-echo << EOF > /data/workspace/myshixun/test.sh
+cat << EOF > /data/workspace/myshixun/test.sh
 #!/bin/bash
 source /etc/profile
 echo "{\"step\":\"正在验证免密服务是否运行正常\"}"
