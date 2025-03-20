@@ -47,3 +47,11 @@ wget -qO- https://raw.githubusercontent.com/Aurorabili/bda-2025sp/refs/heads/mai
 ```bash
 wget -qO- https://raw.githubusercontent.com/Aurorabili/bda-2025sp/refs/heads/main/spark/scripts/zk3utfaq_2569212.sh | bash
 ```
+
+### 第4章 Spark 环境搭建和使用方法
+
+#### [Spark集群的部署与应用](https://www.educoder.net/classrooms/zk3utfaq/shixun_homework/2621357/detail?tabs=1)
+
+```
+wget -qO- https://raw.githubusercontent.com/Aurorabili/bda-2025sp/refs/heads/main/spark/scripts/zk3utfaq_2621357.sh | bash
+```
