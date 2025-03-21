@@ -52,6 +52,6 @@ wget -qO- https://raw.githubusercontent.com/Aurorabili/bda-2025sp/refs/heads/mai
 
 #### [Spark集群的部署与应用](https://www.educoder.net/classrooms/zk3utfaq/shixun_homework/2621357/detail?tabs=1)
 
-```
+```bash
 wget -qO- https://raw.githubusercontent.com/Aurorabili/bda-2025sp/refs/heads/main/spark/scripts/zk3utfaq_2621357.sh | bash
 ```
